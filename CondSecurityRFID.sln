@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondSecurityRFID", "CondSecurityRFID.csproj", "{83466ABF-F8C3-4875-869F-38A10AC7E821}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CondSecurityRFIDInstaller", "..\CondSecurityRFIDInstaller\CondSecurityRFIDInstaller.vdproj", "{89D0135C-0F85-4E7D-9BA6-C544CD4A1380}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83466ABF-F8C3-4875-869F-38A10AC7E821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83466ABF-F8C3-4875-869F-38A10AC7E821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83466ABF-F8C3-4875-869F-38A10AC7E821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83466ABF-F8C3-4875-869F-38A10AC7E821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89D0135C-0F85-4E7D-9BA6-C544CD4A1380}.Debug|Any CPU.ActiveCfg = Debug
+		{89D0135C-0F85-4E7D-9BA6-C544CD4A1380}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CA12938-7445-4A7D-BDB0-14F85D8C0562}
+	EndGlobalSection
+EndGlobal
